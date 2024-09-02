@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Alface",
+            "desc": "Alface de marca",
+            "price": 3.99,
+            "image": "https://img.freepik.com/fotos-gratis/alface-fresca_1339-2072.jpg?t=st=1725305034~exp=1725308634~hmac=f00a334144bb04d24e8135b9a329df24f00297df5f19aab80201c0b3206d8004&w=996"
+        },
+        {
+            "id": 2,
+            "name": "Tomate",
+            "desc": "Tomate italiano",
+            "price": 4.50,
+            "image": "https://img.freepik.com/fotos-gratis/tomates-vermelhos-suculentos-inteiros-e-fatiados-colocados-em-marmore_114579-43886.jpg?w=996&t=st=1725305657~exp=1725306257~hmac=07f1438e527f2556882b34cb5cd750faa887b496e0ab530674abbbaaff796c2a"
+        },
+        {
+            "id": 3,
+            "name": "Cenoura",
+            "desc": "Cenoura chinesa",
+            "price": 2.50,
+            "image": "https://img.freepik.com/fotos-gratis/alimentos-crus-com-gotas-de-agua-no-estudio_23-2151364841.jpg?w=1380&t=st=1725308731~exp=1725309331~hmac=2e55b7a9e86bc018edbd5261226ad49eae649a9253526821091cbf29156a2bd6"
+        },
+        {
+            "id": 4,
+            "name": "Brocólis",
+            "desc": "Brocólis sueco",
+            "price": 5.00,
+            "image": "https://img.freepik.com/fotos-gratis/vegetal-de-brocolis-fresco_144627-20154.jpg?w=360&t=st=1725308784~exp=1725309384~hmac=8305384820677ddd64dc73d37ed81de10f2d0d8b76760cf75bc655bbe2f9c564"
+        }
+    ]
+}
